@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "docs-mcp-server": {
+      "command": "bunx",
+      "args": ["mcp-remote", "https://docs.mcp.actus-tax.com/mcp"]
+    }
+  }
+}
